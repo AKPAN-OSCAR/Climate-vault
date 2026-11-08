@@ -1,0 +1,6 @@
+{
+  "name": "ClimaVault",
+  "description": "An offline-first climate intelligence and financial resilience platform for rural Nigerian farmers",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
